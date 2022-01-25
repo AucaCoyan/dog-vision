@@ -27,6 +27,6 @@ Of course, you need to download the data from Kaggle (~700 Mb), connect your Goo
 
 ## I have another question, where can I find you?
 You have different options:
-* Log an Issue,
+* Submit an Issue,
 * Send me an email at: aucacoyan@gmail.com, or
 * Find me on Discord AucaCoyan#9411
