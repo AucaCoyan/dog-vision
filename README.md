@@ -1,8 +1,6 @@
 # Dog Vision - ML Algorithm to identify dog breeds
 A Machine Learning notebook applied to identify the breed of a dog given an image of a dog.
 
-[Link to the Colab notebook](https://colab.research.google.com/drive/1VWK6fGaBUvDJxUStnMlc-2gYdwjv7Y7v?usp=sharing)
-
 ## Problem
 Some times, when you are in a bar and a nice doggo passes by, it's nice to know what dog breed is.
 
@@ -16,6 +14,11 @@ The evaluation metric used for the competition is Multi Class Log Loss. For this
 Some info about the data:
 * There are 120 breeds of dogs.
 * Around 10k images of dogs in total.
+
+## Link to the notebook
+If you want to check the full process of transfer learning: [here is the full Colab notebook](https://colab.research.google.com/drive/1VWK6fGaBUvDJxUStnMlc-2gYdwjv7Y7v?usp=sharing).
+
+On the other hand, if you want to test the algorihm with you custom photo [here is the shortened notebook](https://colab.research.google.com/drive/1ujRSmFBZb8ePg2JmvBo84iGkrxB2CM6q?usp=sharing) (so that you don't need to train a model).
 
 # FAQ
 
