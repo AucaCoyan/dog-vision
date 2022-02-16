@@ -18,7 +18,7 @@ Some info about the data:
 ## Link to the notebook
 If you want to check the full process of transfer learning: [here is the full Colab notebook](https://colab.research.google.com/drive/1VWK6fGaBUvDJxUStnMlc-2gYdwjv7Y7v?usp=sharing).
 
-On the other hand, if you want to test the algorihm with you custom photo [here is the shortened notebook](https://colab.research.google.com/drive/1ujRSmFBZb8ePg2JmvBo84iGkrxB2CM6q?usp=sharing) (so that you don't need to train a model).
+On the other hand, if you want to test the algorihm with you custom photo [here is the shortened notebook](https://colab.research.google.com/drive/1ujRSmFBZb8ePg2JmvBo84iGkrxB2CM6q?usp=sharing) (so you don't need to train a model).
 
 # FAQ
 
